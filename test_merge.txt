@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+day la file test.txt thuoc test_merge
+=======
+thuoc confilct
+>>>>>>> test_conflict
